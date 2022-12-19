@@ -51,17 +51,22 @@ The contract defines  Functions :
 Add Custom Network with following settings :
 
 **Network Name**: Avalanche FUJI C-Chain
+
 **New RPC URL**: https://api.avax-test.network/ext/bc/C/rpc
+
 **ChainID**: use the recommended ChainID
+
 **Symbol**: C-AVAX
+
 **Explorer**: https://cchain.explorer.avax-test.network
+
 Fund your address from the given [faucet](https://faucet.avax.network/).
 
 ## Deploy the smart contract with [Remix](https://remix.ethereum.org/)
 
 Compile and run the smart contract in Database.sol and retrieve the ABI and Contract Code.
 
-Place your contract Code in line 14 of App.jsx.
+Place your Contract Code in line 14 of App.jsx.
 
 ###### Install dependancies
 
